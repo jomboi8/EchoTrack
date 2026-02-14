@@ -43,7 +43,7 @@ go install ./cmd/echostrike
 go run cmd/echostrike/main.go [command] [flags]
 ```
 
-## 🛠 Usage
+## Usage
 
 ### Basic Sending
 Send a single test message to a local syslog server over UDP:
